@@ -8,9 +8,9 @@ Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e S
 
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielms-castro&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&layout=compact&theme=radical)
 
 ---
 
@@ -31,5 +31,5 @@ Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e S
 ---
 
 ## 📫 Contato
-- 🌐 **[Linkedin]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg))**
+- 🌐 **[Linkedin]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg]))**
 - 📧 **[gabrielms.castro@gmail.com]**
