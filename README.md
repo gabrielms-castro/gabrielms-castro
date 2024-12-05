@@ -31,5 +31,5 @@ Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e S
 ---
 
 ## 📫 Contato
-- 🌐 **[Seu LinkedIn Aqui](https://www.linkedin.com/in/seu-perfil)**
-- 📧 **[Seu Email Aqui]**
+- 🌐 **[Linkedin]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg))**
+- 📧 **[gabrielms.castro@gmail.com]**
