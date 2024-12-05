@@ -8,9 +8,7 @@ Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e S
 
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielms-castro&show_icons=true&theme=radical&count_private=true&hide=contribs,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielms-castro&show_icons=true&theme=radical&count_private=true&hide=contribs,issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&layout=compact&theme=radical)
 
 ---
 
