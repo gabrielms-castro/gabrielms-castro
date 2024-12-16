@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil!
 
-Sou **advogado por formação** e **desenvolvedor de software por escolha**. Minha jornada na tecnologia começou com **Análise de Dados** e evoluiu para o desenvolvimento de **APIs**, **integrações** e a exploração de **Inteligência Artificial**.
+Sou **advogado por formação** e **desenvolvedor de software por escolha**. Minha jornada na tecnologia começou com **Análise de Dados** e evoluiu para o desenvolvimento de **Web Scrapers**, **APIs**, **Integrações de Sistemas** e a exploração de **Inteligência Artificial**. 
 
 Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e Soluções**, com o objetivo de liderar projetos que unam estratégia e tecnologia.
 
