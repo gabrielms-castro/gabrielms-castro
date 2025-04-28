@@ -14,11 +14,14 @@ Atualmente, estou cursando uma **pós-graduação em Arquitetura de Software e S
 ---
 
 ## 💼 Minhas Habilidades
-- **Linguagens**: Python  
+- **Linguagens**: Python, Javascipt, Go
 - **Desenvolvimento Web**: Django, Django Rest Framework  
-- **Análise de Dados**: Power BI, DAX, Pandas  
-- **Automação**: Selenium, RPA  
-- **Inteligência Artificial**: Langchain, Modelos de Linguagem (LLMs)
+- **Automação**: Selenium, Selenium Base, BotCity Framework  
+- **Inteligência Artificial**: Langchain
+
+## 🛠️ Ferramentas
+- Docker
+- Git
 
 ---
 
