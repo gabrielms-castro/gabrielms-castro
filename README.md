@@ -38,6 +38,6 @@
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&theme=github_dark&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&theme=github_dark&layoout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </div>
