@@ -7,7 +7,7 @@
 * 🔗 You can reach me on **[LinkedIn](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg)**
 
 ---
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stack
 
 <div align="center">
     <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -27,7 +27,7 @@
 
 ---
 ### Statistics
-<p align="center">
+<div align="center">
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -39,4 +39,4 @@
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
