@@ -2,12 +2,13 @@
 **`Back-End Developer`**
 
 * 🐍 I'm coding in Python for over 2 years
-* ♨️ I'm learning JavaScript (Node.js) and TypeScript at the moment
+* 💻 I'm learning JavaScript (Node.js) and TypeScript at the moment
 * 🧠 I like building AI Agents
 * 🔗 You can reach me on **[LinkedIn](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg)**
+* 🌐 Here I write more about my projects (under construction): **[Blog](https://gabrielms-castro.github.io/static-site-generator/)**
 
 ---
-### 🤖 Stack
+### Stack
 
 <div align="center">
     <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
