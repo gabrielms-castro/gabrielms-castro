@@ -38,11 +38,6 @@
   <img 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-  <img 
-    alt="Time Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=gabrielms-castro" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielms-castro&theme=github_dark&custom_title=Tecnologias&langs_count=6" 
   />
 </div>
