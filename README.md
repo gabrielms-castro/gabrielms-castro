@@ -2,8 +2,8 @@
 **`Back-End Developer`**
 
 * 🐍 I'm coding in Python for over 2 years
-* 💻 I'm learning JavaScript (Node.js) and TypeScript at the moment
-* 🧠 I like building AI Agents
+* 💻 Learning JavaScript (Node.js) and TypeScript at the moment
+* 🧠 I'm a **[Boot.dev](https://www.boot.dev/u/thegabcastro)** Archmage
 * 🔗 You can reach me on **[LinkedIn](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg)**
 * 🌐 Here I write more about my projects (under construction): **[Blog](https://gabrielms-castro.github.io/static-site-generator/)**
 
