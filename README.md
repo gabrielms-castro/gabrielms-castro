@@ -39,8 +39,23 @@ Back-end developer based in São Paulo, Brazil, building APIs and services with 
     <img alt="Redis" title="Redis" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
   </p>
 
-  <p><strong>Cloud & BaaS</strong><br>
+  <p><strong>Cloud</strong><br>
     <img alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+    <img 
+      alt="AWS" 
+      title="AWS" 
+      width="30px" 
+      src="https://cdn.jsdelivr.net/npm/aws-icons@3.2.0/aws/AWS-Simple-Icons_Amazon-EC2.svg" 
+    /> 
+    <img 
+      alt="AWS S3" 
+      title="AWS S3" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/npm/aws-icons@3.2.0/aws/AWS-Simple-Icons_Amazon-S3.svg" 
+    />
+    
+    
   </p>
 
   <p><strong>Tools</strong><br>
