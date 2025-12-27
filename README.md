@@ -73,7 +73,8 @@ Currently I'm learning Java for my current role and exploring Front-End basics t
 <div align="center">
   <img
     alt="GitHub Stats"
-    style="padding-right: 10px; height: 800px;"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=gabrielms-castro&show_icons=true&theme=github_dark"
   />
   <img
