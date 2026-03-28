@@ -2,8 +2,7 @@
 
 **`Back-End Developer`** **`Python & Java`**
 
-Back-end developer based in São Paulo, Brazil, building APIs and services with **TypeScript** and **Python**. I started my journey in 2023 with Data Analytics and made my way through Back-End learning core concepts at [Boot.dev](https://www.boot.dev/u/thegabcastro).
-Currently I'm learning Java for my current role and exploring Front-End basics to become a more versatile and helpful teammate.
+Back-end developer based in São Paulo, Brazil, building APIs and services with **TypeScript** and **Python**. I started my journey in 2023 with Data Analytics and made my way through Back-End learning core concepts at [Boot.dev](https://www.boot.dev/u/thegabcastro). I'm learning Java for my current role and exploring Front-End basics to become a more versatile and helpful teammate.
 
 - 🐍 Building back-end systems with **TypeScript** and **Python**
 - 💻 Learning Java and some Front-End(yikes)
