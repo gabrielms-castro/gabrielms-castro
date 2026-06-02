@@ -8,7 +8,7 @@ Back-end developer based in São Paulo, Brazil, building APIs and services with 
 - 💻 Learning Java and some Front-End(yikes)
 - 🧠 I'm a **[Boot.dev](https://www.boot.dev/u/thegabcastro)** Archmage
 - 🔗 You can reach me on **[LinkedIn](https://www.linkedin.com/in/advgabrielcastro/?profileId=ACoAABf_E8QBQ7nppfC-Yl2Hp9fVQDNOFGHVTxg)**
-- 🌐 Here I write more about my projects (under construction): **[Blog](https://gabrielms-castro.github.io/blog/)**
+- 🌐 Here I write more about my projects (under construction): **[Blog](https://gabrielcastrodev.netlify.app/)**
 
 ---
 
